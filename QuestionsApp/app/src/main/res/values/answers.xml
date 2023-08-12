@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answers">
+        <item>Compiled languages: The source code is converted into machine code (binary) by a compiler before execution. The resulting binary is specific to the target platform and directly executed.
+Interpreted languages: The source code is executed line-by-line by an interpreter at runtime, without the need for a separate compilation step. Interpreted languages are typically platform-independent.</item>
+        <item>API (Application Programming Interface) is a set of rules and protocols that allow different software applications to communicate and interact with each other. It provides a way for developers to access the functionality of a library or service without needing to understand its internal implementation.</item>
+        <item>Version control is a system that tracks and manages changes to software code over time. It allows multiple developers to work on the same project simultaneously, keeping track of modifications, and providing a way to revert to previous versions if needed. Git is a popular version control system.</item>
+        <item>Procedural programming: The program is structured around procedures or functions that operate on data.
+Object-oriented programming: The program is organized around objects, which are instances of classes that encapsulate data and behavior. OOP promotes concepts like inheritance, polymorphism, and encapsulation.</item>
+        <item>Recursion is a programming technique where a function calls itself to solve a problem. Each recursive call works on a smaller instance of the problem until a base case is reached, preventing infinite recursion.</item>
+        <item>A data structure is a way of organizing and storing data to perform operations efficiently. Common data structures include arrays, linked lists, stacks, queues, trees, and graphs.</item>
+        <item>Design patterns are reusable solutions to common software design problems. They provide templates or blueprints for creating code that is flexible, maintainable, and scalable. Examples include Singleton, Factory, Observer, and MVC (Model-View-Controller).</item>
+        <item>A database is a structured collection of data that is organized and accessible. In programming, databases are used to store and retrieve data efficiently. Common types of databases include relational databases (e.g., MySQL, PostgreSQL) and NoSQL databases (e.g., MongoDB, Cassandra).</item>
+        <item>Multithreading is a technique where multiple threads (lightweight processes) execute independently within the same program, sharing the same resources. It allows programs to perform concurrent tasks and utilize multiple CPU cores effectively.</item>
+        <item>"Big O" notation is used to analyze the efficiency of algorithms in terms of time and space complexity. It provides a way to compare how algorithms scale as the input size grows, helping to identify the most efficient solution for a problem.</item>
+        <item>A cybersecurity vulnerability refers to a weakness or flaw in software that can be exploited by attackers to compromise the security of the system. It is crucial to address vulnerabilities through proper coding practices, regular updates, and security testing to protect against potential threats.</item>
+
+    </string-array>
+</resources>

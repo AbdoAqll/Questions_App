@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questions">
+        <item>What is the difference between compiled and interpreted programming languages?</item>
+        <item>What is an API (Application Programming Interface), and how is it used in programming?</item>
+        <item>What is version control, and why is it essential for collaborative software development?</item>
+        <item>What is the difference between procedural programming and object-oriented programming?</item>
+        <item>Explain the concept of recursion in programming. How does it work?</item>
+        <item>What is a data structure, and what are some common types used in programming?</item>
+        <item>What are design patterns, and how do they help in software development?</item>
+        <item>What is a database, and how is it used in programming?</item>
+        <item>What is multithreading, and why is it useful in programming?</item>
+        <item>Explain the significance of the "Big O" notation in analyzing the time and space complexity of algorithms.</item>
+        <item>What is a cybersecurity vulnerability, and why is it critical to address them in programming?</item>
+    </string-array>
+</resources>

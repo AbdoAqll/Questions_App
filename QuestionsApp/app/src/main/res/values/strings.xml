@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuestionsApp</string>
+    <string name="quiz">Quiz</string>
+    <string name="main_page">Main page</string>
+    <string name="questions">Questions</string>
+    <string name="rate_us">Rate app</string>
+    <string name="app_version">Version 1.0.0</string>
+    <string name="app_description">Welcome to the Quiz App! Test your knowledge and have fun!</string>
+    <string name="contact_info">For support, contact us at support@example.com</string>
+</resources>
